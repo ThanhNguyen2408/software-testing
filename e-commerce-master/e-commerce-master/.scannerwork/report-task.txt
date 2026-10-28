@@ -1,0 +1,6 @@
+projectKey=Sports-K
+serverUrl=http://localhost:9000
+serverVersion=26.10.0.133078
+dashboardUrl=http://localhost:9000/dashboard?id=Sports-K
+ceTaskId=61a4f9e9-af90-4918-99fc-940146497ed9
+ceTaskUrl=http://localhost:9000/api/ce/task?id=61a4f9e9-af90-4918-99fc-940146497ed9

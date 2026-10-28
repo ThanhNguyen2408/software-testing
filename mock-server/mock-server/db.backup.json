@@ -1,0 +1,987 @@
+{
+  "allproducts": [
+    {
+      "id": 1,
+      "key": 1,
+      "name": "Air Runner M",
+      "category": "shoes",
+      "gender": "MEN",
+      "color": "red",
+      "colortype": "red",
+      "sizes": [
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "rating": 3.7,
+      "reviews": 23,
+      "strike_price": 2373,
+      "final_price": 1873,
+      "images": [
+        "http://localhost:3001/photos/giay10.png",
+        "http://localhost:3001/photos/giay2.jpg",
+        "http://localhost:3001/photos/giay3.jpg",
+        "http://localhost:3001/photos/giay4.jpg",
+        "http://localhost:3001/photos/giay5.jpg"
+      ]
+    },
+    {
+      "id": 2,
+      "key": 2,
+      "name": "Court Classic M",
+      "category": "shoes",
+      "gender": "MEN",
+      "color": "white",
+      "colortype": "white",
+      "sizes": [
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "rating": 4.4,
+      "reviews": 36,
+      "strike_price": 2746,
+      "final_price": 2246,
+      "images": [
+        "http://localhost:3001/photos/giay2.jpg",
+        "http://localhost:3001/photos/giay3.jpg",
+        "http://localhost:3001/photos/giay4.jpg",
+        "http://localhost:3001/photos/giay5.jpg",
+        "http://localhost:3001/photos/giay6.jpg"
+      ]
+    },
+    {
+      "id": 3,
+      "key": 3,
+      "name": "Street Flex M",
+      "category": "shoes",
+      "gender": "MEN",
+      "color": "blue",
+      "colortype": "blue",
+      "sizes": [
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "rating": 3.1,
+      "reviews": 49,
+      "strike_price": 3119,
+      "final_price": 2619,
+      "images": [
+        "http://localhost:3001/photos/giay3.jpg",
+        "http://localhost:3001/photos/giay4.jpg",
+        "http://localhost:3001/photos/giay5.jpg",
+        "http://localhost:3001/photos/giay6.jpg",
+        "http://localhost:3001/photos/giay7.jpg"
+      ]
+    },
+    {
+      "id": 4,
+      "key": 4,
+      "name": "Trail Pro M",
+      "category": "shoes",
+      "gender": "MEN",
+      "color": "black",
+      "colortype": "black",
+      "sizes": [
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "rating": 3.8,
+      "reviews": 62,
+      "strike_price": 3492,
+      "final_price": 2992,
+      "images": [
+        "http://localhost:3001/photos/giay4.jpg",
+        "http://localhost:3001/photos/giay5.jpg",
+        "http://localhost:3001/photos/giay6.jpg",
+        "http://localhost:3001/photos/giay7.jpg",
+        "http://localhost:3001/photos/giay8.jpg"
+      ]
+    },
+    {
+      "id": 5,
+      "key": 5,
+      "name": "Speed Lite M",
+      "category": "shoes",
+      "gender": "MEN",
+      "color": "red",
+      "colortype": "red",
+      "sizes": [
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "rating": 4.5,
+      "reviews": 75,
+      "strike_price": 3865,
+      "final_price": 3365,
+      "images": [
+        "http://localhost:3001/photos/giay5.jpg",
+        "http://localhost:3001/photos/giay6.jpg",
+        "http://localhost:3001/photos/giay7.jpg",
+        "http://localhost:3001/photos/giay8.jpg",
+        "http://localhost:3001/photos/giay9.jpg"
+      ]
+    },
+    {
+      "id": 6,
+      "key": 6,
+      "name": "Urban Walker M",
+      "category": "shoes",
+      "gender": "MEN",
+      "color": "white",
+      "colortype": "white",
+      "sizes": [
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "rating": 3.2,
+      "reviews": 88,
+      "strike_price": 4238,
+      "final_price": 3738,
+      "images": [
+        "http://localhost:3001/photos/giay6.jpg",
+        "http://localhost:3001/photos/giay7.jpg",
+        "http://localhost:3001/photos/giay8.jpg",
+        "http://localhost:3001/photos/giay9.jpg",
+        "http://localhost:3001/photos/giay1.jpg"
+      ]
+    },
+    {
+      "id": 7,
+      "key": 7,
+      "name": "Pulse Max M",
+      "category": "shoes",
+      "gender": "MEN",
+      "color": "blue",
+      "colortype": "blue",
+      "sizes": [
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "rating": 3.9,
+      "reviews": 11,
+      "strike_price": 4611,
+      "final_price": 4111,
+      "images": [
+        "http://localhost:3001/photos/giay7.jpg",
+        "http://localhost:3001/photos/giay8.jpg",
+        "http://localhost:3001/photos/giay9.jpg",
+        "http://localhost:3001/photos/giay1.jpg",
+        "http://localhost:3001/photos/giay10.png"
+      ]
+    },
+    {
+      "id": 8,
+      "key": 8,
+      "name": "Cloud Step M",
+      "category": "shoes",
+      "gender": "MEN",
+      "color": "black",
+      "colortype": "black",
+      "sizes": [
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "rating": 4.6,
+      "reviews": 24,
+      "strike_price": 4984,
+      "final_price": 4484,
+      "images": [
+        "http://localhost:3001/photos/giay8.jpg",
+        "http://localhost:3001/photos/giay9.jpg",
+        "http://localhost:3001/photos/giay1.jpg",
+        "http://localhost:3001/photos/giay10.png",
+        "http://localhost:3001/photos/giay2.jpg"
+      ]
+    },
+    {
+      "id": 9,
+      "key": 9,
+      "name": "Dry-Fit Tee M",
+      "category": "clothes",
+      "gender": "MEN",
+      "color": "red",
+      "colortype": "red",
+      "sizes": [
+        "small",
+        "medium",
+        "large"
+      ],
+      "rating": 3.3,
+      "reviews": 37,
+      "strike_price": 5357,
+      "final_price": 4857,
+      "images": [
+        "http://localhost:3001/photos/giay9.jpg",
+        "http://localhost:3001/photos/giay1.jpg",
+        "http://localhost:3001/photos/giay10.png",
+        "http://localhost:3001/photos/giay2.jpg",
+        "http://localhost:3001/photos/giay3.jpg"
+      ]
+    },
+    {
+      "id": 10,
+      "key": 10,
+      "name": "Training Shorts M",
+      "category": "clothes",
+      "gender": "MEN",
+      "color": "white",
+      "colortype": "white",
+      "sizes": [
+        "small",
+        "medium",
+        "large"
+      ],
+      "rating": 4,
+      "reviews": 50,
+      "strike_price": 5730,
+      "final_price": 5230,
+      "images": [
+        "http://localhost:3001/photos/giay1.jpg",
+        "http://localhost:3001/photos/giay10.png",
+        "http://localhost:3001/photos/giay2.jpg",
+        "http://localhost:3001/photos/giay3.jpg",
+        "http://localhost:3001/photos/giay4.jpg"
+      ]
+    },
+    {
+      "id": 11,
+      "key": 11,
+      "name": "Zip Hoodie M",
+      "category": "clothes",
+      "gender": "MEN",
+      "color": "blue",
+      "colortype": "blue",
+      "sizes": [
+        "small",
+        "medium",
+        "large"
+      ],
+      "rating": 4.7,
+      "reviews": 63,
+      "strike_price": 6103,
+      "final_price": 5603,
+      "images": [
+        "http://localhost:3001/photos/giay10.png",
+        "http://localhost:3001/photos/giay2.jpg",
+        "http://localhost:3001/photos/giay3.jpg",
+        "http://localhost:3001/photos/giay4.jpg",
+        "http://localhost:3001/photos/giay5.jpg"
+      ]
+    },
+    {
+      "id": 12,
+      "key": 12,
+      "name": "Track Jacket M",
+      "category": "clothes",
+      "gender": "MEN",
+      "color": "black",
+      "colortype": "black",
+      "sizes": [
+        "small",
+        "medium",
+        "large"
+      ],
+      "rating": 3.4,
+      "reviews": 76,
+      "strike_price": 6476,
+      "final_price": 5976,
+      "images": [
+        "http://localhost:3001/photos/giay2.jpg",
+        "http://localhost:3001/photos/giay3.jpg",
+        "http://localhost:3001/photos/giay4.jpg",
+        "http://localhost:3001/photos/giay5.jpg",
+        "http://localhost:3001/photos/giay6.jpg"
+      ]
+    },
+    {
+      "id": 13,
+      "key": 13,
+      "name": "Compression Tights M",
+      "category": "clothes",
+      "gender": "MEN",
+      "color": "red",
+      "colortype": "red",
+      "sizes": [
+        "small",
+        "medium",
+        "large"
+      ],
+      "rating": 4.1,
+      "reviews": 89,
+      "strike_price": 2349,
+      "final_price": 1849,
+      "images": [
+        "http://localhost:3001/photos/giay3.jpg",
+        "http://localhost:3001/photos/giay4.jpg",
+        "http://localhost:3001/photos/giay5.jpg",
+        "http://localhost:3001/photos/giay6.jpg",
+        "http://localhost:3001/photos/giay7.jpg"
+      ]
+    },
+    {
+      "id": 14,
+      "key": 14,
+      "name": "Sport Tank M",
+      "category": "clothes",
+      "gender": "MEN",
+      "color": "white",
+      "colortype": "white",
+      "sizes": [
+        "small",
+        "medium",
+        "large"
+      ],
+      "rating": 4.8,
+      "reviews": 12,
+      "strike_price": 2722,
+      "final_price": 2222,
+      "images": [
+        "http://localhost:3001/photos/giay4.jpg",
+        "http://localhost:3001/photos/giay5.jpg",
+        "http://localhost:3001/photos/giay6.jpg",
+        "http://localhost:3001/photos/giay7.jpg",
+        "http://localhost:3001/photos/giay8.jpg"
+      ]
+    },
+    {
+      "id": 15,
+      "key": 15,
+      "name": "Air Runner W",
+      "category": "shoes",
+      "gender": "WOMEN",
+      "color": "blue",
+      "colortype": "blue",
+      "sizes": [
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "rating": 3.5,
+      "reviews": 25,
+      "strike_price": 3095,
+      "final_price": 2595,
+      "images": [
+        "http://localhost:3001/photos/giay5.jpg",
+        "http://localhost:3001/photos/giay6.jpg",
+        "http://localhost:3001/photos/giay7.jpg",
+        "http://localhost:3001/photos/giay8.jpg",
+        "http://localhost:3001/photos/giay9.jpg"
+      ]
+    },
+    {
+      "id": 16,
+      "key": 16,
+      "name": "Court Classic W",
+      "category": "shoes",
+      "gender": "WOMEN",
+      "color": "black",
+      "colortype": "black",
+      "sizes": [
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "rating": 4.2,
+      "reviews": 38,
+      "strike_price": 3468,
+      "final_price": 2968,
+      "images": [
+        "http://localhost:3001/photos/giay6.jpg",
+        "http://localhost:3001/photos/giay7.jpg",
+        "http://localhost:3001/photos/giay8.jpg",
+        "http://localhost:3001/photos/giay9.jpg",
+        "http://localhost:3001/photos/giay1.jpg"
+      ]
+    },
+    {
+      "id": 17,
+      "key": 17,
+      "name": "Street Flex W",
+      "category": "shoes",
+      "gender": "WOMEN",
+      "color": "red",
+      "colortype": "red",
+      "sizes": [
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "rating": 4.9,
+      "reviews": 51,
+      "strike_price": 3841,
+      "final_price": 3341,
+      "images": [
+        "http://localhost:3001/photos/giay7.jpg",
+        "http://localhost:3001/photos/giay8.jpg",
+        "http://localhost:3001/photos/giay9.jpg",
+        "http://localhost:3001/photos/giay1.jpg",
+        "http://localhost:3001/photos/giay10.png"
+      ]
+    },
+    {
+      "id": 18,
+      "key": 18,
+      "name": "Trail Pro W",
+      "category": "shoes",
+      "gender": "WOMEN",
+      "color": "white",
+      "colortype": "white",
+      "sizes": [
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "rating": 3.6,
+      "reviews": 64,
+      "strike_price": 4214,
+      "final_price": 3714,
+      "images": [
+        "http://localhost:3001/photos/giay8.jpg",
+        "http://localhost:3001/photos/giay9.jpg",
+        "http://localhost:3001/photos/giay1.jpg",
+        "http://localhost:3001/photos/giay10.png",
+        "http://localhost:3001/photos/giay2.jpg"
+      ]
+    },
+    {
+      "id": 19,
+      "key": 19,
+      "name": "Speed Lite W",
+      "category": "shoes",
+      "gender": "WOMEN",
+      "color": "blue",
+      "colortype": "blue",
+      "sizes": [
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "rating": 4.3,
+      "reviews": 77,
+      "strike_price": 4587,
+      "final_price": 4087,
+      "images": [
+        "http://localhost:3001/photos/giay9.jpg",
+        "http://localhost:3001/photos/giay1.jpg",
+        "http://localhost:3001/photos/giay10.png",
+        "http://localhost:3001/photos/giay2.jpg",
+        "http://localhost:3001/photos/giay3.jpg"
+      ]
+    },
+    {
+      "id": 20,
+      "key": 20,
+      "name": "Urban Walker W",
+      "category": "shoes",
+      "gender": "WOMEN",
+      "color": "black",
+      "colortype": "black",
+      "sizes": [
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "rating": 3,
+      "reviews": 90,
+      "strike_price": 4960,
+      "final_price": 4460,
+      "images": [
+        "http://localhost:3001/photos/giay1.jpg",
+        "http://localhost:3001/photos/giay10.png",
+        "http://localhost:3001/photos/giay2.jpg",
+        "http://localhost:3001/photos/giay3.jpg",
+        "http://localhost:3001/photos/giay4.jpg"
+      ]
+    },
+    {
+      "id": 21,
+      "key": 21,
+      "name": "Pulse Max W",
+      "category": "shoes",
+      "gender": "WOMEN",
+      "color": "red",
+      "colortype": "red",
+      "sizes": [
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "rating": 3.7,
+      "reviews": 13,
+      "strike_price": 5333,
+      "final_price": 4833,
+      "images": [
+        "http://localhost:3001/photos/giay10.png",
+        "http://localhost:3001/photos/giay2.jpg",
+        "http://localhost:3001/photos/giay3.jpg",
+        "http://localhost:3001/photos/giay4.jpg",
+        "http://localhost:3001/photos/giay5.jpg"
+      ]
+    },
+    {
+      "id": 22,
+      "key": 22,
+      "name": "Cloud Step W",
+      "category": "shoes",
+      "gender": "WOMEN",
+      "color": "white",
+      "colortype": "white",
+      "sizes": [
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "rating": 4.4,
+      "reviews": 26,
+      "strike_price": 5706,
+      "final_price": 5206,
+      "images": [
+        "http://localhost:3001/photos/giay2.jpg",
+        "http://localhost:3001/photos/giay3.jpg",
+        "http://localhost:3001/photos/giay4.jpg",
+        "http://localhost:3001/photos/giay5.jpg",
+        "http://localhost:3001/photos/giay6.jpg"
+      ]
+    },
+    {
+      "id": 23,
+      "key": 23,
+      "name": "Dry-Fit Tee W",
+      "category": "clothes",
+      "gender": "WOMEN",
+      "color": "blue",
+      "colortype": "blue",
+      "sizes": [
+        "small",
+        "medium",
+        "large"
+      ],
+      "rating": 3.1,
+      "reviews": 39,
+      "strike_price": 6079,
+      "final_price": 5579,
+      "images": [
+        "http://localhost:3001/photos/giay3.jpg",
+        "http://localhost:3001/photos/giay4.jpg",
+        "http://localhost:3001/photos/giay5.jpg",
+        "http://localhost:3001/photos/giay6.jpg",
+        "http://localhost:3001/photos/giay7.jpg"
+      ]
+    },
+    {
+      "id": 24,
+      "key": 24,
+      "name": "Training Shorts W",
+      "category": "clothes",
+      "gender": "WOMEN",
+      "color": "black",
+      "colortype": "black",
+      "sizes": [
+        "small",
+        "medium",
+        "large"
+      ],
+      "rating": 3.8,
+      "reviews": 52,
+      "strike_price": 6452,
+      "final_price": 5952,
+      "images": [
+        "http://localhost:3001/photos/giay4.jpg",
+        "http://localhost:3001/photos/giay5.jpg",
+        "http://localhost:3001/photos/giay6.jpg",
+        "http://localhost:3001/photos/giay7.jpg",
+        "http://localhost:3001/photos/giay8.jpg"
+      ]
+    },
+    {
+      "id": 25,
+      "key": 25,
+      "name": "Zip Hoodie W",
+      "category": "clothes",
+      "gender": "WOMEN",
+      "color": "red",
+      "colortype": "red",
+      "sizes": [
+        "small",
+        "medium",
+        "large"
+      ],
+      "rating": 4.5,
+      "reviews": 65,
+      "strike_price": 2325,
+      "final_price": 1825,
+      "images": [
+        "http://localhost:3001/photos/giay5.jpg",
+        "http://localhost:3001/photos/giay6.jpg",
+        "http://localhost:3001/photos/giay7.jpg",
+        "http://localhost:3001/photos/giay8.jpg",
+        "http://localhost:3001/photos/giay9.jpg"
+      ]
+    },
+    {
+      "id": 26,
+      "key": 26,
+      "name": "Track Jacket W",
+      "category": "clothes",
+      "gender": "WOMEN",
+      "color": "white",
+      "colortype": "white",
+      "sizes": [
+        "small",
+        "medium",
+        "large"
+      ],
+      "rating": 3.2,
+      "reviews": 78,
+      "strike_price": 2698,
+      "final_price": 2198,
+      "images": [
+        "http://localhost:3001/photos/giay6.jpg",
+        "http://localhost:3001/photos/giay7.jpg",
+        "http://localhost:3001/photos/giay8.jpg",
+        "http://localhost:3001/photos/giay9.jpg",
+        "http://localhost:3001/photos/giay1.jpg"
+      ]
+    },
+    {
+      "id": 27,
+      "key": 27,
+      "name": "Compression Tights W",
+      "category": "clothes",
+      "gender": "WOMEN",
+      "color": "blue",
+      "colortype": "blue",
+      "sizes": [
+        "small",
+        "medium",
+        "large"
+      ],
+      "rating": 3.9,
+      "reviews": 91,
+      "strike_price": 3071,
+      "final_price": 2571,
+      "images": [
+        "http://localhost:3001/photos/giay7.jpg",
+        "http://localhost:3001/photos/giay8.jpg",
+        "http://localhost:3001/photos/giay9.jpg",
+        "http://localhost:3001/photos/giay1.jpg",
+        "http://localhost:3001/photos/giay10.png"
+      ]
+    },
+    {
+      "id": 28,
+      "key": 28,
+      "name": "Sport Tank W",
+      "category": "clothes",
+      "gender": "WOMEN",
+      "color": "black",
+      "colortype": "black",
+      "sizes": [
+        "small",
+        "medium",
+        "large"
+      ],
+      "rating": 4.6,
+      "reviews": 14,
+      "strike_price": 3444,
+      "final_price": 2944,
+      "images": [
+        "http://localhost:3001/photos/giay8.jpg",
+        "http://localhost:3001/photos/giay9.jpg",
+        "http://localhost:3001/photos/giay1.jpg",
+        "http://localhost:3001/photos/giay10.png",
+        "http://localhost:3001/photos/giay2.jpg"
+      ]
+    }
+  ],
+  "Homepage": [
+    {
+      "id": 1,
+      "key": 1,
+      "name": "Air Runner M",
+      "category": "shoes",
+      "gender": "MEN",
+      "color": "red",
+      "colortype": "red",
+      "sizes": [
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "rating": 3.7,
+      "reviews": 23,
+      "strike_price": 2373,
+      "final_price": 1873,
+      "images": [
+        "http://localhost:3001/photos/giay10.png",
+        "http://localhost:3001/photos/giay2.jpg",
+        "http://localhost:3001/photos/giay3.jpg",
+        "http://localhost:3001/photos/giay4.jpg",
+        "http://localhost:3001/photos/giay5.jpg"
+      ]
+    },
+    {
+      "id": 2,
+      "key": 2,
+      "name": "Court Classic M",
+      "category": "shoes",
+      "gender": "MEN",
+      "color": "white",
+      "colortype": "white",
+      "sizes": [
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "rating": 4.4,
+      "reviews": 36,
+      "strike_price": 2746,
+      "final_price": 2246,
+      "images": [
+        "http://localhost:3001/photos/giay2.jpg",
+        "http://localhost:3001/photos/giay3.jpg",
+        "http://localhost:3001/photos/giay4.jpg",
+        "http://localhost:3001/photos/giay5.jpg",
+        "http://localhost:3001/photos/giay6.jpg"
+      ]
+    },
+    {
+      "id": 3,
+      "key": 3,
+      "name": "Street Flex M",
+      "category": "shoes",
+      "gender": "MEN",
+      "color": "blue",
+      "colortype": "blue",
+      "sizes": [
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "rating": 3.1,
+      "reviews": 49,
+      "strike_price": 3119,
+      "final_price": 2619,
+      "images": [
+        "http://localhost:3001/photos/giay3.jpg",
+        "http://localhost:3001/photos/giay4.jpg",
+        "http://localhost:3001/photos/giay5.jpg",
+        "http://localhost:3001/photos/giay6.jpg",
+        "http://localhost:3001/photos/giay7.jpg"
+      ]
+    },
+    {
+      "id": 4,
+      "key": 4,
+      "name": "Trail Pro M",
+      "category": "shoes",
+      "gender": "MEN",
+      "color": "black",
+      "colortype": "black",
+      "sizes": [
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "rating": 3.8,
+      "reviews": 62,
+      "strike_price": 3492,
+      "final_price": 2992,
+      "images": [
+        "http://localhost:3001/photos/giay4.jpg",
+        "http://localhost:3001/photos/giay5.jpg",
+        "http://localhost:3001/photos/giay6.jpg",
+        "http://localhost:3001/photos/giay7.jpg",
+        "http://localhost:3001/photos/giay8.jpg"
+      ]
+    },
+    {
+      "id": 5,
+      "key": 5,
+      "name": "Speed Lite M",
+      "category": "shoes",
+      "gender": "MEN",
+      "color": "red",
+      "colortype": "red",
+      "sizes": [
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "rating": 4.5,
+      "reviews": 75,
+      "strike_price": 3865,
+      "final_price": 3365,
+      "images": [
+        "http://localhost:3001/photos/giay5.jpg",
+        "http://localhost:3001/photos/giay6.jpg",
+        "http://localhost:3001/photos/giay7.jpg",
+        "http://localhost:3001/photos/giay8.jpg",
+        "http://localhost:3001/photos/giay9.jpg"
+      ]
+    },
+    {
+      "id": 6,
+      "key": 6,
+      "name": "Urban Walker M",
+      "category": "shoes",
+      "gender": "MEN",
+      "color": "white",
+      "colortype": "white",
+      "sizes": [
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "rating": 3.2,
+      "reviews": 88,
+      "strike_price": 4238,
+      "final_price": 3738,
+      "images": [
+        "http://localhost:3001/photos/giay6.jpg",
+        "http://localhost:3001/photos/giay7.jpg",
+        "http://localhost:3001/photos/giay8.jpg",
+        "http://localhost:3001/photos/giay9.jpg",
+        "http://localhost:3001/photos/giay1.jpg"
+      ]
+    },
+    {
+      "id": 7,
+      "key": 7,
+      "name": "Pulse Max M",
+      "category": "shoes",
+      "gender": "MEN",
+      "color": "blue",
+      "colortype": "blue",
+      "sizes": [
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "rating": 3.9,
+      "reviews": 11,
+      "strike_price": 4611,
+      "final_price": 4111,
+      "images": [
+        "http://localhost:3001/photos/giay7.jpg",
+        "http://localhost:3001/photos/giay8.jpg",
+        "http://localhost:3001/photos/giay9.jpg",
+        "http://localhost:3001/photos/giay1.jpg",
+        "http://localhost:3001/photos/giay10.png"
+      ]
+    },
+    {
+      "id": 8,
+      "key": 8,
+      "name": "Cloud Step M",
+      "category": "shoes",
+      "gender": "MEN",
+      "color": "black",
+      "colortype": "black",
+      "sizes": [
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "rating": 4.6,
+      "reviews": 24,
+      "strike_price": 4984,
+      "final_price": 4484,
+      "images": [
+        "http://localhost:3001/photos/giay8.jpg",
+        "http://localhost:3001/photos/giay9.jpg",
+        "http://localhost:3001/photos/giay1.jpg",
+        "http://localhost:3001/photos/giay10.png",
+        "http://localhost:3001/photos/giay2.jpg"
+      ]
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Test User",
+      "username": "testuser",
+      "email": "test@example.com",
+      "password": "123456",
+      "mobile": "0900000000",
+      "description": "Tai khoan mau"
+    },
+    {
+      "id": 1792552313942,
+      "name": "Thành",
+      "username": "Thanh",
+      "email": "nguyenthanhzenk@gmail.com",
+      "password": "Toikobiet@24",
+      "mobile": "0399008615"
+    },
+    {
+      "id": 1792560879232,
+      "name": "Nguyen",
+      "username": "nguyen01",
+      "email": "nguyen1792560879187@example.com",
+      "password": "Abc#1234",
+      "mobile": "0912345678"
+    },
+    {
+      "id": 1792560879577,
+      "name": "An",
+      "email": "abc",
+      "password": "1"
+    }
+  ]
+}

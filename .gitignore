@@ -1,0 +1,10 @@
+# Bỏ qua thư mục kết quả test và ảnh chụp màn hình
+results/
+__pycache__/
+node_modules/
+*.pyc
+
+# Bỏ qua các file cấu hình riêng của VS Code hoặc hệ điều hành
+.vscode/
+Thumbs.db
+desktop.ini
