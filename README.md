@@ -155,6 +155,9 @@ Các lỗi nổi bật (đã xác nhận):
 - Kiểm thử chạy trên môi trường giả lập (JSON Server), không đại diện cho hệ thống production.
 - Dữ liệu `db.json` bị thay đổi sau mỗi lần chạy các test ghi dữ liệu; cần khôi phục trước khi chạy lại.
 
-## 9. Thông tin nhó
+## 9. Thông tin nhóm
 - Người thực hiện: Nguyễn Trường Thành
 - Giảng viên hướng dẫn: Trịnh Thanh Bình
+
+## 10.Video thuyết trình
+https://drive.google.com/file/d/17oz1XlDT09VWKFNns37-q2tuuWKzM_5q/view?usp=drive_link
